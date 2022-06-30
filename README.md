@@ -8,6 +8,8 @@ The webapp displays gallery view of the content of unsplash api. It also allows 
 
 ![image](https://user-images.githubusercontent.com/35527492/176740998-8b2ebfae-341a-48f1-afa6-9c6b6abfa6c9.png)
 
+![image](https://user-images.githubusercontent.com/35527492/176741614-43659984-0916-4a7b-bd58-f006900c43b3.png)
+
 ![image](https://user-images.githubusercontent.com/35527492/176741114-6d3bf351-0ebf-464c-9fff-a26ba63e004d.png)
 
 
