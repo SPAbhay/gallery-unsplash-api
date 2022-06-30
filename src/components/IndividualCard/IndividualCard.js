@@ -4,7 +4,7 @@ import {AiOutlineDownload} from "react-icons/all";
 
 const IndividualCard = ({image}) => {
     return (
-        <div className="slider-card">
+        <div onClick={()=> window.open(image.user.links.html, "")} className="slider-card">
             <div>
                 <img className="slider-card-image" src={image.urls.full}/>
                 <div className="slider-card-content">
