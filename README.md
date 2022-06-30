@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+The webapp displays gallery view of the content of unsplash api. It also allows the user for search for images and also get to shuffle the visible gallery on a single click. 
+
+##Screenshots - 
+![image](https://user-images.githubusercontent.com/35527492/176740842-a9961db4-12bd-46dc-886b-b77170a31039.png)
+
+![image](https://user-images.githubusercontent.com/35527492/176740998-8b2ebfae-341a-48f1-afa6-9c6b6abfa6c9.png)
+
+![image](https://user-images.githubusercontent.com/35527492/176741114-6d3bf351-0ebf-464c-9fff-a26ba63e004d.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
